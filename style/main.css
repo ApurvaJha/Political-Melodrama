@@ -17,7 +17,7 @@ p.learn {
 }
 
 span.tile-text {
-  line-height: 1.25;
+  line-height: 1;
 }
 
 
@@ -60,7 +60,7 @@ input {
   clear: both; }
 
 h1.title {
-  font-size: 55px;
+  font-size: 45px;
   font-weight: medium;
   margin: 0;
   display: block;
@@ -637,7 +637,7 @@ hr {
 
   .score-container, .best-container {
     margin-top: 0;
-    padding: 15px 10px;
+    padding: 0px 10px;
     min-width: 40px; }
 
   .heading {
